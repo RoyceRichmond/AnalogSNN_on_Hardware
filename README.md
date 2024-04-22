@@ -6,4 +6,8 @@ Python scripts for the data acquisition of the spiking neuron implemented on har
 
 **AFG3251C** contains the instructions for the writing and configuration of the Tektronix AFG3251C function generator, the program occupies the same NI-VISA driver to communicate
 
-**VI_testbench** contains the program that controls the oscilloscope and function generator for tuning curve of the SNN 
+**testbench_2** contains the program that controls the oscilloscope and function generator for tuning curve of the SNN 
+
+
+![tuning curve](https://github.com/RoyceRichmond/AnalogSNN_on_Hardware/blob/main/fitted%20function2.png?raw=true)
+
